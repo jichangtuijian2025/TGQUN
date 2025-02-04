@@ -130,6 +130,3 @@
 
 > **注**: 以上信息为自动提取，可能存在数据不准确之处，请自行验证。
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=jackhawks/rectg&type=Date)](https://star-history.com/#jackhawks/rectg&Date)
