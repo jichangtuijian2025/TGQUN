@@ -14,10 +14,10 @@
 | 名称 | 链接 | 人数 | 简介 |
 | :--: | :--: | :--: | ---- |
 | 电报最强搜索机器人 | [Go](https://t.me/jisou?start=a_1638135106) | 3365,219 | ✨ 电报纸飞机必备的搜索引擎 ✨帮你精准找到想要的群组、频道、音乐 🎵、视频 📺【海量福利 🎁，小视频 🎥，网赚项目 💰，应有尽有】🌟
+| 大陆最强机场 | [Go](https://cutt.ly/heU2e2U3) | 365,219 | ✨ 晚高峰支持秒开8K和4K视频 ✨支持ChatGPT【流畅使用GPT语音功能】，📺支持 奈飞 HBO 迪士尼登流媒体！【一年仅40元，每个月150G（150Gx12个月）高速流量，用到爽！】🌟
 | 阿里云盘4K影视 | [Go](https://t.me/Aliyun_4K_Movies) | 165,219 | 欢迎你来到4K影视频道，频道管理都是影视爱好者，主要分享以4K画质为主的电影、电视剧、纪录片、动画等影视资源。当然也有其他画质资源：如1080P、720P的稀缺资源。 |
 | APP喵-阿喵软件资源共享 | [Go](https://t.me/appmew) | 165,088 | 发现分享好用软件，优质资源，网站，极客，教程，网络黑科技收集：windows，android，iphone，macOS平台各种优质，资源，有趣的，网站，网盘，VPN，磁力，TV，种子，音乐，黑科技，影视，AI，下载，工具，电报，频道，网盘，APP，chatGPT，等关注我，喵！群聊：https://t.me/appmiao 广告合作： 网站：https://www.appmiu.com |
 | Telo News 简体中文 - 加密货币｜DeFi ｜Web3 | [Go](https://t.me/telonews_cn) | 142,554 | 最新的加密货币新闻，观点和数据分析，洞见市场发展。聊天群：  |
-| 大陆最强机场 | [Go](https://cutt.ly/heU2e2U3) | 365,219 | ✨ 晚高峰支持秒开8K和4K视频 ✨支持ChatGPT【流畅使用GPT语音功能】，📺支持 奈飞 HBO 迪士尼登流媒体！【一年仅40元，每个月150G（150Gx12个月）高速流量，用到爽！】🌟
 | Legado｜开源阅读｜频道 | [Go](https://t.me/Legado_Channels) | 64,991 | 建于 2020/10/15-频道内发布阅读APK、书源、主题排版及部分公众号内容，还有群友的推文投稿。-说明书📖：https://www.yuque.com/legado置顶📌：https://t.me/Legado_Channels/1116 |
 | 🧸【佳佳】文案素材吧🧸 | [Go](https://t.me/WenAnBa) | 49,370 | 🌸心心念念是旧人🌸🌸笔笔写下是旧情🌸 #头像  #壁纸  #文案 ！每日更新，你的关注，是我最大的动力！💎欢迎投稿 💎商务合作  （顾佳佳，唯一号，其他都是骗子哦） |
 | Telegram 抽奖活动导航 (Cn lottery) | [Go](https://t.me/Lottery_home) | 42,552 | 方便好用、公平公正的 Telegram 群组抽奖工具。Telegram 抽奖活动助手Telegram 抽奖活动公告Telegram 抽奖活动索引意见反馈/投诉使用须知https://cnlottery.cf/cnlottery-tos/ |
